@@ -1,3 +1,5 @@
+chmod +x create.sh
+
 # Automate Configuring Self-Hosted Runners
 
 ## Export PAT
