@@ -1,5 +1,11 @@
 [
   {
+    "repo": "Don-Cryptus/traefik",
+    "name": "traefik",
+    "branch": "master",
+    "workflow": "docker.yml"
+  },
+  {
     "repo": "Don-Cryptus/portainer",
     "name": "portainer",
     "branch": "master",
