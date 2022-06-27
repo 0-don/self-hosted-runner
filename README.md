@@ -1,3 +1,5 @@
+sudo apt install jq -y & sudo apt install curl -y
+
 chmod +x create.sh
 chmod +x remove.sh
 

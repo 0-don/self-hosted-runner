@@ -2,6 +2,7 @@
   {
     "repo": "Don-Cryptus/cashclock",
     "name": "cashclock",
-    "branch": "master"
+    "branch": "master",
+    "workflow": "docker.yml"
   }
 ]
