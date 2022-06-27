@@ -1,4 +1,5 @@
 chmod +x create.sh
+chmod +x remove.sh
 
 # Automate Configuring Self-Hosted Runners
 
