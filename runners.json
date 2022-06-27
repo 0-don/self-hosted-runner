@@ -1,7 +1,49 @@
 [
   {
-    "repo": "Don-Cryptus/traefik",
-    "name": "traefik",
+    "repo": "Don-Cryptus/portainer",
+    "name": "portainer",
+    "branch": "master",
+    "workflow": "docker.yml"
+  },
+  {
+    "repo": "Don-Cryptus/cashclock",
+    "name": "cashclock",
+    "branch": "master",
+    "workflow": "docker.yml"
+  },
+  {
+    "repo": "Don-Cryptus/coding.global-web",
+    "name": "coding_global_web",
+    "branch": "main",
+    "workflow": "docker.yml"
+  },
+  {
+    "repo": "Don-Cryptus/coding.global-bot",
+    "name": "coding_global_bot",
+    "branch": "master",
+    "workflow": "docker.yml"
+  },
+  {
+    "repo": "Don-Cryptus/echat",
+    "name": "echat",
+    "branch": "master",
+    "workflow": "docker.yml"
+  },
+  {
+    "repo": "Don-Cryptus/spring-boot-ecommerce",
+    "name": "spring_boot_ecommerce",
+    "branch": "master",
+    "workflow": "docker.yml"
+  },
+  {
+    "repo": "Don-Cryptus/igdb-graphql",
+    "name": "igdb_graphql",
+    "branch": "master",
+    "workflow": "docker.yml"
+  },
+  {
+    "repo": "Don-Cryptus/pAlarm",
+    "name": "pAlarm",
     "branch": "master",
     "workflow": "docker.yml"
   }
