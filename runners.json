@@ -1,7 +1,7 @@
 [
   {
-    "repo": "Don-Cryptus/cashclock",
-    "name": "cashclock",
+    "repo": "Don-Cryptus/traefik",
+    "name": "traefik",
     "branch": "master",
     "workflow": "docker.yml"
   }

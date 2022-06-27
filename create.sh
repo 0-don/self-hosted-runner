@@ -10,7 +10,7 @@ for ((i=0; i<$count; i++)); do
     branch=`jq -r '.['$i'].branch' $RUNNERS_FILE`
     workflow=`jq -r '.['$i'].workflow' $RUNNERS_FILE`
 
-    mkdir "$HOME/$name"
+    mkdir -p "$HOME/$name"
     cd "$HOME/$name"
 
     curl -s https://raw.githubusercontent.com/actions/runner/main/scripts/create-latest-svc.sh | bash -s -- -s $repo -n $name
