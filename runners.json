@@ -58,5 +58,11 @@
     "name": "duplicati",
     "branch": "master",
     "workflow": "docker.yml"
+  },
+  {
+    "repo": "Don-Cryptus/webssh",
+    "name": "webssh",
+    "branch": "master",
+    "workflow": "docker.yml"
   }
 ]
