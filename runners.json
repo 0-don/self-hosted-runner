@@ -12,6 +12,12 @@
     "workflow": "docker.yml"
   },
   {
+    "repo": "Don-Cryptus/duplicati",
+    "name": "duplicati",
+    "branch": "master",
+    "workflow": "docker.yml"
+  },
+  {
     "repo": "Don-Cryptus/cashclock",
     "name": "cashclock",
     "branch": "master",
