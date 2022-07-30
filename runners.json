@@ -66,9 +66,9 @@
     "workflow": "docker.yml"
   },
   {
-    "repo": "Don-Cryptus/webssh",
-    "name": "webssh",
-    "branch": "master",
+    "repo": "Don-Cryptus/OnlyFans-Toolset",
+    "name": "OnlyFans-Toolset",
+    "branch": "main",
     "workflow": "docker.yml"
   }
 ]
