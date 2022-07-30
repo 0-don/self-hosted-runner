@@ -60,12 +60,6 @@
     "workflow": "docker.yml"
   },
   {
-    "repo": "Don-Cryptus/duplicati",
-    "name": "duplicati",
-    "branch": "master",
-    "workflow": "docker.yml"
-  },
-  {
     "repo": "Don-Cryptus/OnlyFans-Toolset",
     "name": "OnlyFans-Toolset",
     "branch": "main",
