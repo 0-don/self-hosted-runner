@@ -70,5 +70,11 @@
     "name": "SavageScan",
     "branch": "master",
     "workflow": "docker.yml"
+  },
+  {
+    "repo": "Don-Cryptus/shop",
+    "name": "shop",
+    "branch": "main",
+    "workflow": "docker.yml"
   }
 ]
