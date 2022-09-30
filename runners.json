@@ -64,5 +64,11 @@
     "name": "OnlyFans-Toolset",
     "branch": "main",
     "workflow": "docker.yml"
+  },
+  {
+    "repo": "Don-Cryptus/SavageScan",
+    "name": "SavageScan",
+    "branch": "master",
+    "workflow": "docker.yml"
   }
 ]
