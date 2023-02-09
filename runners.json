@@ -42,12 +42,6 @@
     "workflow": "docker.yml"
   },
   {
-    "repo": "Don-Cryptus/spring-boot-ecommerce",
-    "name": "spring_boot_ecommerce",
-    "branch": "master",
-    "workflow": "docker.yml"
-  },
-  {
     "repo": "Don-Cryptus/igdb-graphql",
     "name": "igdb_graphql",
     "branch": "master",
@@ -56,18 +50,6 @@
   {
     "repo": "Don-Cryptus/pAlarm",
     "name": "pAlarm",
-    "branch": "master",
-    "workflow": "docker.yml"
-  },
-  {
-    "repo": "Don-Cryptus/OnlyFans-Toolset",
-    "name": "OnlyFans-Toolset",
-    "branch": "main",
-    "workflow": "docker.yml"
-  },
-  {
-    "repo": "Don-Cryptus/SavageScan",
-    "name": "SavageScan",
     "branch": "master",
     "workflow": "docker.yml"
   }
