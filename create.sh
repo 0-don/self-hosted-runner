@@ -1,4 +1,4 @@
-#/bin/bash
+#!/usr/bin/bash
 export "$(grep -vE "^(#.*|\s*)$" .env)"
 
 RUNNERS_FILE="runners.json"
