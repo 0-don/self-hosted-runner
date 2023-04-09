@@ -1,6 +1,7 @@
-sudo apt install jq -y & sudo apt install curl -y
+sudo apt install jq curl -y
 
 chmod +x create.sh
+
 chmod +x remove.sh
 
 # Automate Configuring Self-Hosted Runners
