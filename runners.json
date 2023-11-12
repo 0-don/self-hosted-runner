@@ -53,7 +53,13 @@
     "branch": "master",
     "workflow": "docker.yml"
   },
-    {
+  {
+    "repo": "Don-Cryptus/privnote",
+    "name": "privnote",
+    "branch": "master",
+    "workflow": "docker.yml"
+  },
+  {
     "repo": "Don-Cryptus/privnote",
     "name": "privnote",
     "branch": "master",
