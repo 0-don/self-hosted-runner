@@ -13,8 +13,9 @@ for ((i=0; i<$count; i++)); do
     branch=`jq -r '.['$i'].branch' $RUNNERS_FILE`
     workflow=`jq -r '.['$i'].workflow' $RUNNERS_FILE`
 
-    mkdir -p "$HOME/$name"
-    cd "$HOME/$name"
+    # Create directories one level above the current directory
+    mkdir -p "$CURRENT_DIR/../$name"
+    cd "$CURRENT_DIR/../$name"
 
     curl -s https://raw.githubusercontent.com/actions/runner/main/scripts/create-latest-svc.sh | bash -s -- -s $repo -n $name
     curl -X POST -H "Authorization: token $RUNNER_CFG_PAT" https://api.github.com/repos/$repo/actions/workflows/$workflow/dispatches -d '{"ref":"'$branch'"}'
