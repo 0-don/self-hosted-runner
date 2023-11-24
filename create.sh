@@ -17,6 +17,9 @@ for ((i=0; i<$count; i++)); do
     mkdir -p "$CURRENT_DIR/../$name"
     cd "$CURRENT_DIR/../$name"
 
-    curl -s https://raw.githubusercontent.com/actions/runner/main/scripts/create-latest-svc.sh | bash -s -- -s $repo -n $name
+    # Modified line: Added '-f' to enable the replace flag
+    curl -s https://raw.githubusercontent.com/actions/runner/main/scripts/create-latest-svc.sh | bash -s -- -s $repo -n $name -f
+
+    # Trigger workflow dispatch
     curl -X POST -H "Authorization: token $RUNNER_CFG_PAT" https://api.github.com/repos/$repo/actions/workflows/$workflow/dispatches -d '{"ref":"'$branch'"}'
 done
