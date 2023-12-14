@@ -64,5 +64,11 @@
     "name": "terra-track",
     "branch": "master",
     "workflow": "docker.yml"
+  },
+    {
+    "repo": "Don-Cryptus/meal-manager",
+    "name": "meal-manager",
+    "branch": "main",
+    "workflow": "docker.yml"
   }
 ]
