@@ -1,72 +1,72 @@
 [
   {
-    "repo": "Don-Cryptus/traefik",
+    "repo": "0-don/traefik",
     "name": "traefik",
     "branch": "master",
     "workflow": "docker.yml"
   },
   {
-    "repo": "Don-Cryptus/portainer",
+    "repo": "0-don/portainer",
     "name": "portainer",
     "branch": "master",
     "workflow": "docker.yml"
   },
   {
-    "repo": "Don-Cryptus/duplicati",
+    "repo": "0-don/duplicati",
     "name": "duplicati",
     "branch": "master",
     "workflow": "docker.yml"
   },
   {
-    "repo": "Don-Cryptus/cashclock",
+    "repo": "0-don/cashclock",
     "name": "cashclock",
     "branch": "master",
     "workflow": "docker.yml"
   },
   {
-    "repo": "Don-Cryptus/coding.global-web",
+    "repo": "0-don/coding.global-web",
     "name": "coding_global_web",
     "branch": "master",
     "workflow": "docker.yml"
   },
   {
-    "repo": "Don-Cryptus/coding.global-bot",
+    "repo": "0-don/coding.global-bot",
     "name": "coding_global_bot",
     "branch": "master",
     "workflow": "docker.yml"
   },
   {
-    "repo": "Don-Cryptus/echat",
+    "repo": "0-don/echat",
     "name": "echat",
     "branch": "master",
     "workflow": "docker.yml"
   },
   {
-    "repo": "Don-Cryptus/igdb-graphql",
+    "repo": "0-don/igdb-graphql",
     "name": "igdb_graphql",
     "branch": "master",
     "workflow": "docker.yml"
   },
   {
-    "repo": "Don-Cryptus/pAlarm",
+    "repo": "0-don/pAlarm",
     "name": "pAlarm",
     "branch": "master",
     "workflow": "docker.yml"
   },
   {
-    "repo": "Don-Cryptus/privnote",
+    "repo": "0-don/privnote",
     "name": "privnote",
     "branch": "master",
     "workflow": "docker.yml"
   },
   {
-    "repo": "Don-Cryptus/terra-track",
+    "repo": "0-don/terra-track",
     "name": "terra-track",
     "branch": "master",
     "workflow": "docker.yml"
   },
     {
-    "repo": "Don-Cryptus/menu-meister",
+    "repo": "0-don/menu-meister",
     "name": "meal-manager",
     "branch": "main",
     "workflow": "docker.yml"
