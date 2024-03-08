@@ -65,10 +65,16 @@
     "branch": "master",
     "workflow": "docker.yml"
   },
-    {
+  {
     "repo": "0-don/menu-meister",
     "name": "meal-manager",
     "branch": "main",
+    "workflow": "docker.yml"
+  },
+  {
+    "repo": "0-don/spring-boot-ecommerce",
+    "name": "spring-boot-ecommerce",
+    "branch": "master",
     "workflow": "docker.yml"
   }
 ]
