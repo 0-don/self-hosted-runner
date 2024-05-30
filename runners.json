@@ -76,5 +76,11 @@
     "name": "spring-boot-ecommerce",
     "branch": "master",
     "workflow": "docker.yml"
+  },
+  {
+    "repo": "0-don/next-elysia-prisma",
+    "name": "next-elysia-prisma",
+    "branch": "main",
+    "workflow": "docker.yml"
   }
 ]
