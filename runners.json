@@ -82,5 +82,11 @@
     "name": "next-elysia-prisma",
     "branch": "main",
     "workflow": "docker.yml"
+  },
+  {
+    "repo": "0-don/disboard-scrape",
+    "name": "disboard-scrape",
+    "branch": "main",
+    "workflow": "docker.yml"
   }
 ]
