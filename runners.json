@@ -88,5 +88,11 @@
     "name": "disboard-scrape",
     "branch": "main",
     "workflow": "docker.yml"
+  },
+  {
+    "repo": "0-don/dozzle",
+    "name": "dozzle",
+    "branch": "main",
+    "workflow": "docker.yml"
   }
 ]
