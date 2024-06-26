@@ -2,8 +2,8 @@
 
 # Automate Configuring Self-Hosted Runners
 
-required
-``bash
+**required**
+```bash
 sudo apt install jq curl -y
 ```
 
