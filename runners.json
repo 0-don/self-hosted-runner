@@ -94,5 +94,11 @@
     "name": "dozzle",
     "branch": "main",
     "workflow": "docker.yml"
+  },
+  {
+    "repo": "0-don/disportal",
+    "name": "disportal",
+    "branch": "main",
+    "workflow": "docker.yml"
   }
 ]
