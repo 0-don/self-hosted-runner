@@ -94,5 +94,11 @@
     "name": "nextcloud",
     "branch": "main",
     "workflow": "docker.yml"
+  },
+  {
+    "repo": "0-don/edv",
+    "name": "edv",
+    "branch": "main",
+    "workflow": "docker.yml"
   }
 ]
