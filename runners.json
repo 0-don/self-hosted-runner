@@ -90,14 +90,8 @@
     "workflow": "docker.yml"
   },
   {
-    "repo": "0-don/dozzle",
-    "name": "dozzle",
-    "branch": "main",
-    "workflow": "docker.yml"
-  },
-  {
-    "repo": "0-don/disportal",
-    "name": "disportal",
+    "repo": "0-don/nextcloud",
+    "name": "nextcloud",
     "branch": "main",
     "workflow": "docker.yml"
   }
