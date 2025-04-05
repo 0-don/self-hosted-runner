@@ -2,25 +2,25 @@
   {
     "repo": "0-don/traefik",
     "name": "traefik",
-    "branch": "master",
+    "branch": "main",
     "workflow": "docker.yml"
   },
   {
     "repo": "0-don/portainer",
     "name": "portainer",
-    "branch": "master",
+    "branch": "main",
     "workflow": "docker.yml"
   },
   {
     "repo": "0-don/duplicati",
     "name": "duplicati",
-    "branch": "master",
+    "branch": "main",
     "workflow": "docker.yml"
   },
   {
     "repo": "0-don/cashclock",
     "name": "cashclock",
-    "branch": "master",
+    "branch": "main",
     "workflow": "docker.yml"
   },
   {
@@ -32,37 +32,37 @@
   {
     "repo": "0-don/coding.global-bot",
     "name": "coding_global_bot",
-    "branch": "master",
+    "branch": "main",
     "workflow": "docker.yml"
   },
   {
     "repo": "0-don/echat",
     "name": "echat",
-    "branch": "master",
+    "branch": "main",
     "workflow": "docker.yml"
   },
   {
     "repo": "0-don/igdb-graphql",
     "name": "igdb_graphql",
-    "branch": "master",
+    "branch": "main",
     "workflow": "docker.yml"
   },
   {
     "repo": "0-don/pAlarm",
     "name": "pAlarm",
-    "branch": "master",
+    "branch": "main",
     "workflow": "docker.yml"
   },
   {
     "repo": "0-don/privnote",
     "name": "privnote",
-    "branch": "master",
+    "branch": "main",
     "workflow": "docker.yml"
   },
   {
     "repo": "0-don/terra-track",
     "name": "terra-track",
-    "branch": "master",
+    "branch": "main",
     "workflow": "docker.yml"
   },
   {
@@ -74,7 +74,7 @@
   {
     "repo": "0-don/spring-boot-ecommerce",
     "name": "spring-boot-ecommerce",
-    "branch": "master",
+    "branch": "main",
     "workflow": "docker.yml"
   },
   {
