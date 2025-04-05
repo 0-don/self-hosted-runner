@@ -26,7 +26,7 @@
   {
     "repo": "0-don/coding.global-web",
     "name": "coding_global_web",
-    "branch": "master",
+    "branch": "main",
     "workflow": "docker.yml"
   },
   {
