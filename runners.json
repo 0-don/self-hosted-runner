@@ -100,5 +100,11 @@
     "name": "edv",
     "branch": "main",
     "workflow": "docker.yml"
+  },
+  {
+    "repo": "0-don/polybot",
+    "name": "polybot",
+    "branch": "main",
+    "workflow": "docker.yml"
   }
 ]
