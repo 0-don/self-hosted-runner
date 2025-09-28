@@ -106,5 +106,11 @@
     "name": "polybot",
     "branch": "main",
     "workflow": "docker.yml"
+  },
+  {
+    "repo": "0-don/business-finder",
+    "name": "business-finder",
+    "branch": "main",
+    "workflow": "docker.yml"
   }
 ]
