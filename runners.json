@@ -112,5 +112,11 @@
     "name": "business-finder",
     "branch": "main",
     "workflow": "docker.yml"
+  },
+  {
+    "repo": "0-don/new-api",
+    "name": "new-api",
+    "branch": "main",
+    "workflow": "docker.yml"
   }
 ]
